@@ -26,4 +26,4 @@ Replace the api key in the apiKeys.js file and replace with your own key from ht
 ## Deployment
 
 This project can be viewed live on this link:
-
+https://namanweatherapp.netlify.app/
