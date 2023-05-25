@@ -1,11 +1,29 @@
-In the project directory, you can run:
+# Weather App using React.js
 
-npm install 
-to install the dependencies
+An to to display the current weather of your location or any other city or country. 
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+You can enter either city/country name or zip code.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+
+
+
+## Run Locally
+
+Extract the zip file and in the project directory run the following - 
+
+to intall dependencies:
+```bash
+  npm install
+```
+to run the project:
+```bash
+  npm start
+```
+
+Replace the api key in the apiKeys.js file and replace with your own key from https://openweathermap.org/ before running the project.
+
+
+## Deployment
+
+This project can be viewed live on this link:
+
