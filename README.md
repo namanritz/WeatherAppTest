@@ -1,10 +1,11 @@
-# WeatherAppTest
-a weather app to show current weather all over the world using city name or zip code.
+In the project directory, you can run:
 
-in order to run the code use npm start in the directory where you have extracted the zip.
+npm install 
+to install the dependencies
 
-incase you don't have node installed first run no=pm install followed by napm start.
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-the project will launch at port 3000 of your localhost.
-
-
+The page will reload if you make edits.
+You will also see any lint errors in the console.
